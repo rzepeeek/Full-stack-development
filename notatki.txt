@@ -1,4 +1,5 @@
 kilka losowych slow
 jedna dodatkowa linijka
 kolejna dodatkowa linijka
+i nastepna linijka
 
