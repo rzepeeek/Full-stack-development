@@ -3,3 +3,5 @@ jedna dodatkowa linijka
 kolejna dodatkowa linijka
 i nastepna linijka
 
+nowa notatka
+
